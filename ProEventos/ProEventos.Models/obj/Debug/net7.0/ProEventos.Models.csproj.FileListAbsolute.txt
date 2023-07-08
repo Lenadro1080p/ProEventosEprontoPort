@@ -1,0 +1,12 @@
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\bin\Debug\net7.0\ProEventos.Models.deps.json
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\bin\Debug\net7.0\ProEventos.Models.dll
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\bin\Debug\net7.0\ProEventos.Models.pdb
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\ProEventos.Models.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\ProEventos.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\ProEventos.Models.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\ProEventos.Models.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\ProEventos.Models.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\ProEventos.Models.dll
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\refint\ProEventos.Models.dll
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\ProEventos.Models.pdb
+C:\Users\Leandro\Desktop\Test\ProEventos\ProEventos\ProEventos\ProEventos.Models\obj\Debug\net7.0\ref\ProEventos.Models.dll
